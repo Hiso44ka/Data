@@ -6,11 +6,11 @@
 			"InterstitialAd": "",
 			"NativeAd": "",
 
-			"BannerAdsAc1": "max",
-			"BannerAdsAc2": "max",
-			"BannerAdsAc3": "max",
+			"BannerAdsAc1": "facebook",
+			"BannerAdsAc2": "facebook",
+			"BannerAdsAc3": "facebook",
 
-			"InterAdsAc0": "max",
+			"InterAdsAc0": "facebook",
 			"InterAdsAc1": "max",
 			"InterAdsAc2": "max",
 			"InterAdsAc3": "max",
@@ -18,8 +18,8 @@
 			"NativeAdsAc1": "max",
 			"NativeAdsAc2": "max",
 			"NativeAdsAc3": "max",
-			"NativeAdsAc4": "max",
-			"NativeAdsAc5": "max",
+			"NativeAdsAc4": "facebook",
+			"NativeAdsAc5": "facebook",
 		
         "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
         "InterAdmob": "ca-app-pub-3940256099942544/1033173712",
@@ -29,10 +29,10 @@
 		"MaxInter" :  "09cd920cc3bc3224",
 		"MaxNative" : "7279b74f1af598cf",
 	    
-       "FanBanner": "IMG_16_9_APP_INSTALL#825738315329934_825742901996142",
-        "FanInter": "CAROUSEL_IMG_SQUARE_APP_INSTALL#825738315329934_825742971996135",
-        "FanNative": "IMG_16_9_APP_INSTALL#825738315329934_825743048662794",
-	"NativeFacebookSingle": "IMG_16_9_APP_INSTALL#825738315329934_826124475291318",
+        "FanBanner": "855410995565110_855411768898366",
+        "FanInter": "855410995565110_855412205564989",
+        "FanNative": "855410995565110_855412422231634",
+	"NativeFacebookSingle": "855410995565110_855412672231609",
 	    
 	"ironsource_appKey": "1011dee21",
 		
